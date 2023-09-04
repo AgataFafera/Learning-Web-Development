@@ -4,8 +4,8 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    align-items: center; /* Center the content horizontally */
-    justify-content: space-between; /* Ensure space between header and footer */
+    align-items: center; 
+    justify-content: space-between; 
 }
 
 h1 {
@@ -18,12 +18,12 @@ h2 {
 
 img {
     border-radius: 20px;
-    max-width: 100%; /* Ensure images don't exceed container width */
+    max-width: 100%; 
 }
 
 .container {
     width: 50%;
-    text-align: center; /* Center the content inside the container */
+    text-align: center; 
 }
 
 header {
@@ -51,7 +51,7 @@ nav a {
     color: brown;
 }
 
-/* Add margin-top to push content below the header */
+
 .container {
     margin-top: 60px;
 }
